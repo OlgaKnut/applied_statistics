@@ -29,7 +29,8 @@ Part 3: Discuss whether two errors would be acceptable.
 The probability is computed using Python, and explanations for the calculations and logic are provided.
 
 #### Task 2: Numpy's Normal Distribution  
- ![alt text](img/Hallgrimskirkja Reykjavik.jpg)
+ ![alt text](img/hallgrimskirkja_reykjavik.jpg
+ )
 
 In this task, we assess whether numpy.random.normal() generates values that follow a normal distribution:
 
@@ -49,7 +50,7 @@ Step 2: Compare the computed t-statistic to the value provided by scipy.stats.tt
 The assumptions behind the t-test are also discussed, including paired samples and normality.
 
 #### Task 4: ANOVA  
-![alt text](img/Type I and II error.jpg)  
+![alt text](img/type_i_and_ii_error.jpg)  
 
 In this task, we estimate the probability of committing a Type II error using one-way ANOVA in a simulation:
 
