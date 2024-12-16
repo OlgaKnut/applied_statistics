@@ -19,7 +19,7 @@ Jupyter notebook [(project.ipynb)](https://github.com/OlgaKnut/applied_statistic
 
 ### **Tasks description**  
 #### Task 1: Permutations and Combinations
-![Lady Tasting Tea ](c:\Users\knuto\OneDrive\Desktop\fisher-considers-how-to-test-the-claim-l.jpg)  
+![Lady Tasting Tea ](img/fisher-considers-how-to-test-the-claim-l.jpg)  
 
 In this task, we explore the Lady Tasting Tea experiment altered to involve twelve cups of tea: six with milk first and six with tea first. The task involves calculating probabilities related to guessing the correct cups:
 
@@ -29,7 +29,7 @@ Part 3: Discuss whether two errors would be acceptable.
 The probability is computed using Python, and explanations for the calculations and logic are provided.
 
 #### Task 2: Numpy's Normal Distribution  
-![alt text](image.jpg)  
+ ![alt text](img/Hallgrimskirkja Reykjavik.jpg)
 
 In this task, we assess whether numpy.random.normal() generates values that follow a normal distribution:
 
@@ -39,7 +39,7 @@ Step 3: Plot a histogram of the generated values and overlay the normal distribu
 The results of the Shapiro-Wilk test and the visual comparison are discussed in Markdown cells.
 
 #### Task 3: t-Test Calculation  
-![alt text](image.jpg)  
+![alt text](img/heart_exercise.jpg)  
 
 This task involves calculating the t-statistic for a dataset of heart rates before and after a two-week exercise program:
 
@@ -49,7 +49,7 @@ Step 2: Compare the computed t-statistic to the value provided by scipy.stats.tt
 The assumptions behind the t-test are also discussed, including paired samples and normality.
 
 #### Task 4: ANOVA  
-![alt text](image.jpg)  
+![alt text](img/Type I and II error.jpg)  
 
 In this task, we estimate the probability of committing a Type II error using one-way ANOVA in a simulation:
 
