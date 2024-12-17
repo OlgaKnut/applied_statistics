@@ -64,17 +64,16 @@ In this task, we estimate the probability of committing a Type II error using on
 
 The results are analyzed and summarized, with an explanation of Type I vs Type II errors.
 
-### **Project descript**
+### **Project description**
 #### PlantGrowth Dataset Analysis  
 ![alt text](image.jpg)  
 
-For this project, the PlantGrowth dataset is analyzed. This dataset contains the weight of plants across three treatment groups: control, trt1, and trt2. The task involves performing t-tests and ANOVA to analyze the data and make conclusions:
-
-Step 1: Download and save the PlantGrowth dataset in the repository.
-Step 2: Describe the dataset, including a summary of its contents.
-Step 3: Explain what a t-test is, how it works, and its assumptions.
-Step 4: Perform a t-test to check if there's a significant difference between the two treatment groups (trt1 vs trt2).
-Step 5: Perform an ANOVA to determine if there are significant differences between the three treatment groups (ctrl, trt1, trt2).
+For this project, the PlantGrowth dataset is analyzed. This dataset contains the weight of plants across three treatment groups: control, trt1, and trt2. The task involves performing t-tests and ANOVA to analyze the data and make conclusions:  
+Step 1: Download and save the PlantGrowth dataset in the repository.  
+Step 2: Describe the dataset, including a summary of its contents.  
+Step 3: Explain what a t-test is, how it works, and its assumptions.  
+Step 4: Perform a t-test to check if there's a significant difference between the two treatment groups (trt1 vs trt2).  
+Step 5: Perform an ANOVA to determine if there are significant differences between the three treatment groups (ctrl, trt1, trt2).  
 Step 6: Explain why ANOVA is more appropriate than multiple t-tests when comparing more than two groups.
 The analysis is done with clear explanations and visualizations where appropriate.
 
